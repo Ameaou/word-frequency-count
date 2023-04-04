@@ -78,7 +78,7 @@ def get_data(path):
             '总计': totalfreq,
             '占比': weight
         }
-        for i in range(0,text_count): # 238为关键词个数
+        for i in range(0,text_count): 
             datadict[f'{keywords[i]}'] = wordsfreq[i]
         list.append(datadict)
     return list
