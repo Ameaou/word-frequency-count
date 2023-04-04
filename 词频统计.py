@@ -1,4 +1,7 @@
 # _*_ coding: utf-8 _*_
+# Author: Ameaou
+# Email: 944362452@qq.com
+# Copyright (C) 2023 Your Name. All rights reserved.
 # 载入程序包
 import pandas as pd
 import jieba
