@@ -15,3 +15,5 @@ This is a Python word frequency statistics program that can customize dictionari
  冒号英文还是中文，自行查看
  若你的年报开头没有注释，将以下一行代码前面加#号 注释掉即可
  #file = file[:file.index(start)] + file[file.index(end) + 1:].replace(end, "")
+# SpringBoot
+![结果预览](https://github.com/Ameaou/word-frequency-count/blob/main/output.png)
